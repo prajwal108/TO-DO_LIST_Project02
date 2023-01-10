@@ -1,0 +1,57 @@
+    
+/* Element | http://127.0.0.1:5500/index.html */
+
+#clearAllLists {
+    float: right;
+    
+  }
+#clearAllLists:hover {
+background-color: red;
+}  
+#clearAllLists:active{
+    transform: translateY(4px);
+}
+.del:hover{
+    background-color: red;
+}
+.del:active{
+    transform: translateY(4px);
+}
+
+/* Element | http://127.0.0.1:5500/index.html */
+
+.navbar-brand {
+    margin: 0 62px;
+  }
+  
+  /* Element | http://127.0.0.1:5500/index.html */
+  
+  .d-flex {
+    margin: 0 110px;
+  }
+  
+
+/* Element | http://127.0.0.1:5500/index.html? */
+
+.navbar-brand {
+  color: whitesmoke;
+}
+
+/* Element | http://127.0.0.1:5500/index.html? */
+
+.navbar-brand {
+  color: whitesmoke;
+}
+
+/* style.css | http://127.0.0.1:5500/style.css?_cacheOverride=1673338957350 */
+
+.navbar-brand {
+  /* margin: 0 62px; */
+  margin: 0 110px;
+}
+
+.d-flex {
+  /* margin: 0 110px; */
+  margin: 0 8px;
+}
+
